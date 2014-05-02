@@ -28,6 +28,7 @@
 		E1CA4276191401070038C351 /* Carcasonne */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Carcasonne; sourceTree = BUILT_PRODUCTS_DIR; };
 		E1CA4279191401070038C351 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		E1CA427B191401070038C351 /* Carcasonne.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = Carcasonne.1; sourceTree = "<group>"; };
+		E1CA42821914029B0038C351 /* Carcasonne.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Carcasonne.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +63,7 @@
 			children = (
 				E1CA4279191401070038C351 /* main.cpp */,
 				E1CA427B191401070038C351 /* Carcasonne.1 */,
+				E1CA42821914029B0038C351 /* Carcasonne.h */,
 			);
 			path = Carcasonne;
 			sourceTree = "<group>";
